@@ -80,3 +80,10 @@ mini-kb-qa/
 
 - `main.py` 中 `--eval` 会依次打印：阈值网格搜索表 → 最终指标 → baseline 对照 → 10 条 badcase；`--ask` 会输出 Top-3 检索结果与最终回答/拒答结论。
 - 评测集里的 `expected_id` 对应 `kb.csv` 的 `id`，`NONE` 表示知识库外问题。
+
+---
+
+## 联系方式
+
+- GitHub：[github.com/18285613216](https://github.com/18285613216)
+- 本项目为个人练习项目，代码、数据与评测脚本均在仓库内，欢迎提 Issue 交流。
